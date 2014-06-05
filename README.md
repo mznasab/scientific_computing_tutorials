@@ -1,4 +1,4 @@
-scientific_computing_tutorials
+scientific computing tutorials
 ==============================
 
 A collection of scientific computing tutorials.
